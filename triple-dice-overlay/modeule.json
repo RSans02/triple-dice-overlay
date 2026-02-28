@@ -1,0 +1,18 @@
+{
+  "name": "triple-dice-overlay",
+  "title": "Triple Dice Overlay",
+  "description": "Overlay de 3 dados sincronizados para DM y jugadores",
+  "version": "1.0.0",
+  "author": "Tu Nombre",
+  "minimumCoreVersion": "13",
+  "compatibleCoreVersion": "13",
+  "esmodules": ["scripts/main.js"],
+  "scripts": [],
+  "styles": [],
+  "packs": [],
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "readme": "",
+  "license": "MIT"
+}
